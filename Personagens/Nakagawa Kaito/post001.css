@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+:root {
+  --corPrincipal: #6d7085;
+  --corSecundaria:#000317;
+  --caixaTexto: #dadced;
+}
+
+#gloomy0001 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 15px;
+  color: #000;
+  background: linear-gradient(to right, var(--corPrincipal), var(--corSecundaria));
+  padding: 30px;
+  border-radius: 5px;
+}
+
+#gloomy0001 div.secondLayer {
+  background:var(--caixaTexto);
+  padding: 5px;
+  display: flex;
+
+}
+
+#gloomy0001 h3 {
+  text-align: center;
+  color: var(--corPrincipal);
+}
+
+#gloomy0001 div.text {
+  text-align:justify;
+  line-height:17px;
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to left, var(--corSecundaria), var(--corPrincipal));
+  padding: 20px;
+  flex: 1;
+
+}
+
+#gloomy0001 b.falaPersonagem {
+  color: var(--corPrincipal);
+}
