@@ -36,9 +36,12 @@
   border-image-source: linear-gradient(to left, var(--corSecundaria), var(--corPrincipal));
   padding: 20px;
   flex: 1;
-
 }
 
 #gloomy0001 b.falaPersonagem {
-  color: var(--corPrincipal);
+  color: var(--corSecundaria);
+}
+
+#gloomy0001 p {
+  text-indent:30px;
 }
