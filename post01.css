@@ -40,20 +40,6 @@
 
 }
 
-div.informations{
-  background: var(--corSecundaria);
-  padding:10px;
-  color: var(--corPrincipal);
-  font-size:15px;
-  flex: 0;
-}
-
-div.pInfo img {
-  width:130px;
-  border: 1px solid  var(--corPrincipal);
-  padding:5px;
-}
-
 b.falaPersonagem {
   color: var(--corPrincipal);
 }
