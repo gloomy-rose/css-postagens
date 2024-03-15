@@ -1,0 +1,19 @@
+#glm-kaori-turno {
+     background-color: #fffbe6;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     padding: 50px 65px;
+     border: 4px solid #a48f5c;
+     border-left: 15px solid #a48f5c;
+     margin: 10px 40px;
+     border-radius: 10px;
+     color:#000;
+     font-size: 14px;
+     text-align:justify;
+}
+
+#glm-kaori-turno p {
+     text-indent: 30px;
+}
+#glm-kaori-turno b {
+     color: #a48f5c;
+}
